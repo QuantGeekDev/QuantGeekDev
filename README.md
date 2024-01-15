@@ -22,4 +22,4 @@ English (Native), Spanish (Native), Russian (Native), Catalan (Intermediate)
 
 📨 Email me: alex@andru.codes 
 
-[![QuantGeekDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=quantgeekdev)](https://github.com/anuraghazra/github-readme-stats)
+[![QuantGeekDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=quantgeekdev)](https://github.com/quantgeekdev/github-readme-stats)
