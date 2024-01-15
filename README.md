@@ -3,7 +3,7 @@
 
 ### My programming languages: 
 
-Advanced: [![Advanced](https://skillicons.dev/icons?i=python,js,html,css,ts)](https://skillicons.dev)
+Advanced: [![Advanced](https://skillicons.dev/icons?i=python,ts,html,css,js)](https://skillicons.dev)
 
 Surface Level: [![Surface Level](https://skillicons.dev/icons?i=c,zig,php,mysql,dart,cs)](https://skillicons.dev)
 
