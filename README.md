@@ -1,5 +1,6 @@
 # Hey, I'm Alex Andru!
 ## Machine Learning Engineer and Software Developer from Barcelona
+### I aspire to be "Jack of all trades - master of at least a few of them"
 
 ### My programming languages: 
 
