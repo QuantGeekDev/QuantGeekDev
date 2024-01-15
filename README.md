@@ -12,7 +12,7 @@ Surface Level: [![Surface Level](https://skillicons.dev/icons?i=c,php,mysql,dart
 
 ### Async Tools [![Async](https://skillicons.dev/icons?i=figma,xd,git,githubactions,github)](https://skillicons.dev)
 
-### Misc and Developer Tools: [![Misc](https://skillicons.dev/icons?i=redux,docker,aws,gcp,regex,sass,styledcomponents,prisma,netlify,vercel,nodejs,nginx,mongodb,visualstudio,vscode,raspberrypi,postman,postgres,androidstudio)](https://skillicons.dev)
+### Misc and Developer Tools: [![Misc](https://skillicons.dev/icons?i=redux,docker,aws,gcp,regex,linux,sass,styledcomponents,prisma,netlify,vercel,nodejs,nginx,mongodb,visualstudio,vscode,raspberrypi,postman,postgres,androidstudio)](https://skillicons.dev)
 
 ### My human languages: 
 English (Native), Spanish (Native), Russian (Native), Catalan (Intermediate)
