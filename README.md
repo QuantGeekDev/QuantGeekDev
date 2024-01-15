@@ -5,7 +5,7 @@
 
 Advanced: [![Advanced](https://skillicons.dev/icons?i=python,js,html,css,ts)](https://skillicons.dev)
 
-Surface Level: [![Surface Level](https://skillicons.dev/icons?i=c,zig,php,sql,dart,cs)](https://skillicons.dev)
+Surface Level: [![Surface Level](https://skillicons.dev/icons?i=c,zig,php,mysql,dart,cs)](https://skillicons.dev)
 
 ### Frameworks:
 
