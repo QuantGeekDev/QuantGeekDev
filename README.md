@@ -1,11 +1,11 @@
 # Hey, I'm Alex Andru!
 ## Machine Learning Engineer and Software Developer from Barcelona
 
-### My programming languages: [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,python,c)](https://skillicons.dev)
+### My programming languages: 
 
-Advanced:
+Advanced: [![Advanced](https://skillicons.dev/icons?i=python,js,html,css,ts)](https://skillicons.dev)
 
-Surface Level:
+Surface Level: [![Surface Level](https://skillicons.dev/icons?i=c,zig,php,sql)](https://skillicons.dev)
 
 ### Frameworks:
 
