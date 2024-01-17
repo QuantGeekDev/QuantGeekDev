@@ -1,6 +1,6 @@
 # Hey, I'm Alex Andru!
 ## Machine Learning Engineer and Software Developer from Barcelona
-### I am passionate about the intersection of business, finance, and technology. A passionate polymath. I aspire to be "Jack of all trades - master of at least a few of them"
+### I am passionate about the intersection of business, finance, and technology. An obsessive polymath. I aspire to be "Jack of all trades - master of at least a few of them"
   ---
 ### My programming languages: 
 
