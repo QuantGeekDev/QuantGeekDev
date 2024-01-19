@@ -33,10 +33,7 @@ English (Native), Spanish (Native), Russian (Native), Catalan (Intermediate)
 ---
 
 ### Typing Speed:
-<html>
-    <a href="https://monkeytype.com/profile/alex007d">
-        <img src="https://raw.githubusercontent.com/QuantGeekDev/QuantGeekDev/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
-    </a>
-</html>
+  -["My MonkeyType profile"](https://monkeytype.com/profile/alex007d)
+
 
 ### 📨 Email me: alex@andru.codes
