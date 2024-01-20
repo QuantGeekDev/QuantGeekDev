@@ -4,6 +4,9 @@
 
 ### I am passionate about the intersection of business, finance, and technology. An obsessive polymath. I aspire to be "Jack of all trades - master of at least a few of them"
 
+### Author of "🤣" (pronounced Lmao-Lang)
+
+## Looking for employment opportunities!
 ---
 
 ### My programming languages:
