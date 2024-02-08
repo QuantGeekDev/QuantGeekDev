@@ -2,9 +2,9 @@
 
 ## Machine Learning Engineer and Software Developer from Barcelona
 
-### I am passionate about the intersection of business, finance, and technology. An obsessive polymath. I aspire to be "Jack of all trades - master of at least a few of them"
+### I am passionate about the intersection of business, finance, and technology.
 
-### Author of the "🤣-lang" programming language (pronounced Lmao-Lang)
+### Author of the "🤣-lang" programming language (pronounced Lmao-Lang), 🐺Stock-Wolf, 🌲Pinescript-Gen
 ---
 
 ### My programming languages:
