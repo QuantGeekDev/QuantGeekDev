@@ -4,7 +4,7 @@
 
 ### I am passionate about the intersection of business, finance, and technology.
 
-### Author of the "🤣-lang" programming language (pronounced Lmao-Lang), 🐺Stock-Wolf, 🌲Pinescript-Gen
+### Author of 🐺Stock-Wolf, 🌲Pinescript-Gen, and the lmao-lang programming language
 ---
 
 ### My programming languages:
