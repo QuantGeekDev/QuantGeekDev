@@ -9,9 +9,9 @@
 
 ### My programming languages:
 
-Advanced: [![Advanced](https://skillicons.dev/icons?i=python,ts,html,css,js)](https://skillicons.dev)
+ [![](https://skillicons.dev/icons?i=python,ts,html,css,js)](https://skillicons.dev)
 
-Surface Level: [![Surface Level](https://skillicons.dev/icons?i=c,php,mysql,dart,cs,lua)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,php,mysql,dart,cs,lua)](https://skillicons.dev)
 
 ---
 
