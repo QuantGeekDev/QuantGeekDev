@@ -11,7 +11,7 @@
 
  [![](https://skillicons.dev/icons?i=python,ts,html,css,js)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=c,php,mysql,dart,cs,lua)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,mysql,dart,cs,lua)](https://skillicons.dev)
 
 ---
 
