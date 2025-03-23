@@ -10,12 +10,12 @@ In my free time, I love to dabble in Mechanistic Interpretation.
 I'm certified to operate IBM's range of quantum computers with Qiskit.
 Obsessed with building and learning
 
-### Author of MCP-Framework, mcp-docker, mcp-mongo, and the lmao-lang programming language... among other tidbits
+### Author of MCP-Framework, mcp-docker, mcp-mongo, and the lmao-lang programming language... and some other junk
 
 ### Community Manager for r/modelcontextprotocol and the MCP Discord - the #1 spot for mcp discussion and insight
 ---
 
-You might also know me from...
+You might also know me from this primeagen video...
 [![Watch the video](https://img.youtube.com/vi/UzGUjCjGyp8/maxresdefault.jpg)](https://youtu.be/UzGUjCjGyp8)
 
 
