@@ -1,31 +1,23 @@
 # Hey, I'm Alex Andru!
 
-## Machine Learning Engineer and Software Developer from Barcelona
+## Software, GenAI, and fun
 
-### I am passionate about the intersection of business, finance, and technology.
+### I am passionate about the intersection of business and technology. 
 
-### Author of 🐺Stock-Wolf, 🌲Pinescript-Gen, and the lmao-lang programming language
+I love product, but live by the mantra of "If you want something done properly, do it yourself".
+In my free time, I love to dabble in Mechanistic Interpretation.
+I'm also certified to operate IBM's Quantum Computers with Qiskit.
+Obsessed with building and learning
+
+### Author of MCP-Framework, mcp-docker, mcp-mongo, and the lmao-lang programming language... among other tidbits
+
+### Community Manager for r/modelcontextprotocol and the MCP Discord - the #1 spot for mcp discussion and insight
 ---
 
-### My programming languages:
+You might also know me from...
+[![Watch the video](https://img.youtube.com/vi/UzGUjCjGyp8/maxresdefault.jpg)](https://youtu.be/UzGUjCjGyp8)
 
- [![](https://skillicons.dev/icons?i=python,ts,html,css,js)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=c,mysql,dart,cs,lua)](https://skillicons.dev)
-
----
-
-### Frameworks: [![Frameworks](https://skillicons.dev/icons?i=pytorch,tensorflow,vite,vitest,jest,react,tailwind,nextjs,deno,bootstrap,flutter,unity,opencv,wordpress)](https://skillicons.dev)
-
----
-
-### Async Tools: [![Async](https://skillicons.dev/icons?i=figma,xd,git,githubactions,github)](https://skillicons.dev)
-
----
-
-### Misc and Developer Tools: [![Misc](https://skillicons.dev/icons?i=redux,docker,aws,gcp,regex,linux,sass,styledcomponents,prisma,netlify,vercel,nodejs,nginx,mongodb,visualstudio,vscode,raspberrypi,postman,postgres,androidstudio)](https://skillicons.dev)
-
----
 
 ### My human languages:
 
@@ -37,4 +29,7 @@ English (Native), Spanish (Native), Russian (Native), Catalan (Intermediate)
   -["My MonkeyType profile"](https://monkeytype.com/profile/alex007d)
 
 
+Got a cool idea? Want to nerd out about some obscure protocol specification? Hit me up!
+
 ### 📨 Email me: alex@andru.codes
+### [Linkedin](https://www.linkedin.com/in/alex-andrushevich/)
