@@ -33,4 +33,4 @@ English (Native), Spanish (Native), Russian (Native), Catalan (Intermediate), Fr
 Got a cool idea? Want to nerd out about some obscure protocol specification? Got a really hard challenge for me? Hit me up!
 
 ### 📨 Email me: alex@andru.codes
-### [Linkedin](https://www.linkedin.com/in/alex-andrushevich/)
+### Add me on -> [Linkedin](https://www.linkedin.com/in/alex-andrushevich/)
