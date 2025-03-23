@@ -2,11 +2,12 @@
 
 ## Software, GenAI, and fun
 
-## I am passionate about the intersection of business and technology. 
-
-## I love product, but live by the mantra of "If you want something done properly, do it yourself". I've been coding since 12 years old, and somehow I'm still coding...
+### A few short tidbits about me:
+I am passionate about the intersection of business and technology. 
+I love product, but live by the mantra of "If you want something done properly, do it yourself".
+I've been coding since 12 years old, and somehow I'm still coding...
 In my free time, I love to dabble in Mechanistic Interpretation.
-I'm also certified to operate IBM's Quantum Computers with Qiskit.
+I'm certified to operate IBM's range of quantum computers with Qiskit.
 Obsessed with building and learning
 
 ### Author of MCP-Framework, mcp-docker, mcp-mongo, and the lmao-lang programming language... among other tidbits
