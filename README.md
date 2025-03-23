@@ -22,7 +22,7 @@ You might also know me from this primeagen video...
 
 ### My human languages:
 
-English (Native), Spanish (Native), Russian (Native), Catalan (Intermediate)
+English (Native), Spanish (Native), Russian (Native), Catalan (Intermediate), French (Basic), German (Basic)
 
 ---
 
