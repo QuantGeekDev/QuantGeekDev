@@ -10,7 +10,7 @@ In my free time, I love to dabble in Mechanistic Interpretation.
 I'm certified to operate IBM's range of quantum computers with Qiskit.
 Obsessed with building and learning.
 I like Typescript. I like Rust. I like Go. I like Python. I... I like to code in general.
-### Author of MCP-Framework, mcp-docker, mcp-mongo, and the lmao-lang programming language... and some other junk
+### Author of MCP-Framework, mcp-docker, mcp-mongo, mcp-jira and the lmao-lang programming language... and some other junk
 
 ### Community Manager for r/modelcontextprotocol and the MCP Discord - the #1 spot for mcp discussion and insight
 ---
