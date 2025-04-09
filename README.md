@@ -7,7 +7,6 @@ I am passionate about the intersection of business and technology.
 I love product, but live by the mantra of "If you want something done properly, do it yourself".
 I've been coding since 12 years old, and somehow I'm still coding...
 In my free time, I love to dabble in Mechanistic Interpretation.
-I'm certified to operate IBM's range of quantum computers with Qiskit.
 Obsessed with building and learning.
 I like Typescript. I like Rust. I like Go. I like Python. I... I like to code in general.
 ### Author of MCP-Framework, mcp-docker, mcp-mongo, mcp-jira, mcp-filesystem and the lmao-lang programming language... and some other junk
