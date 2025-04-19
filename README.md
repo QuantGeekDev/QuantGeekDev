@@ -14,7 +14,7 @@ I like Typescript. I like Rust. I like Go. I like Python. I... I like to code in
 ### Community Manager for r/modelcontextprotocol and the MCP Discord - the #1 spot for mcp discussion and insight
 ---
 
-You can also blame me for this
+You can also blame me for this:
 [![Watch the video](https://img.youtube.com/vi/UzGUjCjGyp8/maxresdefault.jpg)](https://youtu.be/UzGUjCjGyp8)
 
 
